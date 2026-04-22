@@ -2,7 +2,7 @@
 目前问题：
 服务器可能因为短时间内建立太多新连接而断开，触发反爬机制
 
-class TxtCopy:类 TxtCopy:类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy:类 TxtCopy:类 TxtCopy:类 TxtCopy:类 TxtCopy:类 TxtCopy:类 TxtCopy:类 TxtCopy:类 TxtCopy:类 TxtCopy:类 TxtCopy:类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：类 TxtCopy：
+class TxtCopy:
     # 小说搜索url
     search_url = "https://apibi.cc/api/search?"
     # 小说介绍url
@@ -22,7 +22,7 @@ def search_id(self, txt_name):
 通过输入的小说名称查找对应的id
 def search(self):
 查找小说
-再接着使用search_introduce()和search_content()方法来查询小说信息接着使用search_introduce()和search_content()方法来查询小说信息接着使用search_introduce()和search_content()方法来查询小说信息，接着使用search_introduce()和search_content()方法来查询小说信息接着使用search_introduce()和search_content()方法来查询小说信息，接着使用search_introduce()和search_content()方法来查询小说信息，接着使用search_introduce()和search_content()方法来查询小说信息，接着使用search_introduce()和search_content()方法来查询小说信息接着使用search_introduce()和search_content()方法来查询小说信息，接着使用search_introduce()和search_content()方法来查询小说信息，接着使用search_introduce()和search_content()方法来查询小说信息，接着使用search_introduce()和search_content()方法来查询小说信息，接着使用search_introduce()和search_content()方法来查询小说信息，接着使用search_introduce()和search_content()方法来查询小说信息，接着使用search_introduce()和search_content()方法来查询小说信息，接着使用search_introduce()和search_content()方法来查询小说信息
+再接着使用search_introduce()和search_content()方法来查询小说信息接着使用search_introduce()和search_content()方法来查询小说信息
 
 def search_introduce(self):
 通过id来查找小说的介绍
