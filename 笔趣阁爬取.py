@@ -18,7 +18,7 @@ class TxtCopy:
     # UA伪装
     headers = {
         "User-Agent":
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "加上你自己的UA",
     }
 
     def __init__(self, txt_name):
